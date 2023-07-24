@@ -1,0 +1,20 @@
+* {
+  font-family: 'VT323', monospace;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-family: system-ui;
+  }
+  
+  #parent {
+    width: auto;
+    height: auto;
+    /*outline: thick dotted red;*/
+  }
